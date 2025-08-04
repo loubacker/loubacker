@@ -12,6 +12,9 @@ Desenvolvedor Back-End e Especialista em Infraestrutura apaixonado por Java e ec
   <a href="https://www.instagram.com/loubacker" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
+  <a href="https://www.linkedin.com/in/loubacker" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
 </div>
 
 # 💻 Tecnologias e Ferramentas
