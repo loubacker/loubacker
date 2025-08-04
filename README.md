@@ -7,7 +7,7 @@ Desenvolvedor Back-End e Especialista em Infraestrutura apaixonado por Java e ec
 📬 Conecte-se comigo:
 <div>
   <a href="https://www.linkedin.com/in/seu-usuario" target="_blank" style="display: flex; align-items: center;">
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="30" height="30" style="margin-right: 8px;"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="30" height="30" style="margin-right: 8px; vertical-align: middle;"/>
     LinkedIn
   </a>
   <a href="https://www.instagram.com/loubacker" target="_blank">
