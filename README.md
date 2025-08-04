@@ -1,59 +1,91 @@
-Olá, sou Gabriel Loubacker 👋
-Especialista em Backend Java, Infraestrutura e Observabilidade
+# Olá, eu sou Gabriel Loubacker! 👋
+<a href="https://github.com/loubacker">
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula"/>
+</a>
 
-Desenvolvedor de software com profunda especialização no ecossistema Java e uma paixão por construir sistemas distribuídos, resilientes e de alta performance. Minha expertise abrange desde o desenvolvimento backend com Spring Framework até a arquitetura e manutenção de infraestruturas complexas. Atuo atualmente como um especialista em observabilidade, implementando soluções de monitoramento e telemetria que garantem a saúde e a eficiência de aplicações em produção. Atualmente, aplico minhas habilidades em dois ambientes profissionais desafiadores, equilibrando o desenvolvimento de software com a gestão de infraestrutura de ponta.
+<br>
 
-Conecte-se comigo:
+Desenvolvedor Back-End e Especialista em Infraestrutura apaixonado por Java e ecossistema Spring. Com uma forte base em arquiteturas de software robustas e distribuídas, meu foco é construir soluções eficientes, escaláveis e observáveis. Atualmente, atuo em duas frentes, aprimorando sistemas e garantindo a performance e segurança da infraestrutura.
 
-📊 Estatísticas do GitHub
-🛠️ Habilidades & Ferramentas
-Backend - Ecossistema Java
-Infraestrutura, DevOps & Cloud
-Especialização: Observabilidade
-Frontend
-🏛️ Arquitetura e Padrões de Design
-Arquiteturas de Microsserviços: Design e implementação de sistemas distribuídos, resilientes e escaláveis.
+📬 Conecte-se comigo:
+<div>
+<a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN-AQUI" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:SEU-EMAIL-AQUI"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<!-- Adicione outros links se desejar, como YouTube, Instagram, etc. -->
+</div>
 
-Padrões de Comunicação: Experiência com API Gateways, BFF (Backend for Frontend) e comunicação síncrona/assíncrona.
+💻 Tecnologias e Ferramentas
+Minha stack principal é focada no ecossistema Java, mas também tenho proficiência em tecnologias de front-end e uma vasta experiência em infraestrutura e nuvem.
 
-Padrão Saga: Orquestração de transações distribuídas para garantir a consistência de dados em múltiplos serviços.
+Backend & Arquitetura:
 
-Arquitetura em Camadas (Layered Architecture): Estruturação de aplicações para separação de responsabilidades e manutenibilidade.
+<p>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+</p>
 
-Principais Linguagens
-🚀 Experiência Profissional
-Tahto
+Infraestrutura, Performance & Observabilidade:
 
-Especialista em Infraestrutura (Jul 2024 - Presente)
+<p>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+<img loading="lazy" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+</p>
 
-Análise e otimização de performance de aplicações em ambientes de produção (Cloud e On-premise).
+Frontend:
 
-Implementação e gestão de stacks de observabilidade com OpenTelemetry (OTLP), Prometheus, Grafana, Loki e Jaeger.
+<p>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+</p>
 
-Automação de pipelines de CI/CD, garantindo segurança e conformidade.
+🚀 Especialista em Observabilidade (O11y)
+Tenho um foco dedicado em observabilidade para garantir que as aplicações sejam transparentes, resilientes e performáticas. Meu fluxo de trabalho segue o padrão OTLP (OpenTelemetry Protocol).
 
-Gerenciamento de infraestrutura de rede, segurança, controle de acessos e conteinerização com Docker.
+Coleta de Telemetria: OpenTelemetry SDK & OpenTelemetry Collector
 
-Refatoração de aplicações e gestão de bancos de dados para aprimorar performance e workflows.
+Envio para: Grafana Stack
 
-Especialista Júnior / Analista de Desenvolvimento (Jan 2024 - Jul 2024)
+Métricas: Prometheus
 
-Atuação no desenvolvimento de sistemas backend, contribuindo para a evolução da arquitetura das aplicações.
+Logs: Loki
 
-Colaboração em projetos de software com equipes distribuídas em ambiente bilíngue (Português/Inglês).
+Tracing: Jaeger
 
-Humanizar
+💼 Experiência Profissional
+Tahto | Aracaju, Sergipe, Brasil
+<br>
+Especialista em Infraestrutura (Jul 2025 - o momento) · Híbrida
 
-Engenheiro de Software (Meio Período, Jan 2024 - Presente)
+Análise e performance de aplicações em produção (Cloud/On-premise).
 
-Liderança técnica no desenvolvimento full-stack (Backend e Frontend) de um sistema de gestão de saúde.
+Deploy, configuração de infraestrutura de rede, segurança e containerização (Docker).
 
-Atuação como Arquiteto de Software, definindo a estrutura, tecnologias e padrões para as aplicações Web e Mobile.
+Foco em observabilidade e monitoramento via OpenTelemetry Protocol (OTLP).
 
-Desenvolvimento de soluções ponta a ponta para otimizar processos clínicos e administrativos.
+Controle de acessos, gestão de latência e automação de pipelines CI/CD.
+
+Refatoração de aplicações, gestão de banco de dados e otimização de performance, seguindo práticas de governança e compliance.
+
+Especialista Júnior (Jan 2025 - Jul 2025) · Remota
+
+Atuação como Analista de Desenvolvimento de Sistemas com foco em backend.
+
+Clínica Humanizar | Aracaju, Sergipe, Brasil
+<br>
+Engenheiro de Software (Jan 2025 - o momento) · Meio Período · Remota
+
+Desenvolvimento e implementação de um sistema de gestão de saúde para otimizar processos clínicos e administrativos.
+
+Atuação full-stack como Desenvolvedor de Aplicações Web/Mobile, Arquiteto de Software e Engenheiro de Soluções.
 
 🎓 Formação Acadêmica
-Tecnólogo em Banco de Dados
-Centro Universitário Internacional (UNINTER)
+Tecnologia em Banco de Dados
 
-Esta formação me proporciona uma base sólida em modelagem, gerenciamento e otimização de bancos de dados, complementando minha expertise prática em sistemas como o PostgreSQL.
+UNINTER (Cursando)
