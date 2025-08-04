@@ -41,5 +41,5 @@ Minha stack principal é focada no ecossistema Java, mas também tenho proficiê
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-🚀 Especialista em Observabilidade (O11y)
+# 🚀 Especialista em Observabilidade
 Tenho um foco dedicado em observabilidade para garantir que as aplicações sejam transparentes, resilientes e performáticas. Meu fluxo de trabalho segue o padrão OTLP (OpenTelemetry Protocol).
