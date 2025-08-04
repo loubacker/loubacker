@@ -2,8 +2,6 @@
 <a href="https://github.com/loubacker">
 </a>
 
-<br>
-
 Desenvolvedor Back-End e Especialista em Infraestrutura apaixonado por Java e ecossistema Spring. Com uma forte base em arquiteturas de software robustas e distribuídas, meu foco é construir soluções eficientes, escaláveis e observáveis. Atualmente, atuo em duas frentes, aprimorando sistemas e garantindo a performance e segurança da infraestrutura.
 
 # 📬 Conecte-se comigo:
