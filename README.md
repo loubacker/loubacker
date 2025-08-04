@@ -29,9 +29,10 @@ Minha stack principal é focada no ecossistema Java, mas também tenho proficiê
 # Infraestrutura, Performance & Observabilidade:
 🚀 Especialista em Observabilidade
 Tenho um foco dedicado em observabilidade para garantir que as aplicações sejam transparentes, resilientes e performáticas. Meu fluxo de trabalho segue o padrão OTLP (OpenTelemetry Protocol).
-
+<p>
 <img loading="lazy" src="https://img.shields.io/badge/OpenTelemetry-109010?style=for-the-badge&logo=opentelemetry&logoColor=white" />
 <img loading="lazy" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+</p>
 <p>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
