@@ -27,13 +27,13 @@ Minha stack principal é focada no ecossistema Java, mas também tenho proficiê
   &nbsp;
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="50" height="50"/>
   &nbsp;
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>
   &nbsp;
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
   &nbsp;
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
 </p>
-
+          
 # Infraestrutura, Performance & Observabilidade:
 🚀 Especialista em Observabilidade
 Tenho um foco dedicado em observabilidade para garantir que as aplicações sejam transparentes, resilientes e performáticas. Meu fluxo de trabalho segue o padrão OTLP (OpenTelemetry Protocol).
