@@ -85,14 +85,15 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 <p><img width="400" alt="image" src="https://github.com/user-attachments/assets/6380d57a-a95d-4aac-b171-03e6e8afea5e"/></p>
 
 <p>Ao falar sobre frontend para grandes serviços administrativos, aplico a mesma lógica de microserviços. No caso de SPAs, que atuam como orquestradores, temos diferentes dashboards interconectados, liberados conforme o role do usuário. Cada acesso à rota do serviço SPA ou dos dashboards, independentemente do orquestrador, sempre passa por um gateway, configurado diretamente no serviço da VPS ou da cloud, utilizando NGINX para o proxy. Isso garante a segurança e a resiliência das aplicações, pois o gateway filtra o tráfego, protegendo os SPAs. Além disso, o BFF (Backend For Frontend), que atua como porta de entrada, se comunica com os serviços distribuídos no backend, e é o único ponto de comunicação com o frontend. A segurança é reforçada através de autenticação com cookies HttpOnly e secure, além de CSRF com Double Submit.</p>
-<p>
+
+<table>
   <tr>
     <td valign="top"><h5>Configuração dos Cookies, adiciona e limpa os cookies</h5></td>
     <td valign="top"><img loading="lazy" align="left" width="400" alt="image" src="https://github.com/user-attachments/assets/ec58b238-d7ad-4909-b9f9-529a7b7150a5"/></td>
     <td valign="top"><h5>Interceptador adiciona os headers de segurança (CSRF e Fingerprint) nas requisições</h5></td>
     <td valign="top"><img loading="lazy" align="right" width="500" alt="image" src="https://github.com/user-attachments/assets/b7e24252-2f49-4cda-b35e-1c94b3a09bc1"/</td>
   </tr>
-</p>
+</table>
 
 <p>No que diz respeito ao CSS, em todos os SPAs, mesmo utilizando Angular, sempre opto por TailwindCSS em vez de CSS tradicional. Embora o Angular não compile o Tailwind nativamente, então sempre faço uso de uma abordagem híbrida, utilizando Tailwind para a maior parte do design e completando com CSS customizado quando necessário. No entanto, o objetivo é sempre usar Tailwind para garantir a consistência no desenvolvimento visual.</p>
           
