@@ -20,10 +20,19 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
     <img loading="lazy" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
-<br>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=loubacker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loubacker&layout=compact&langs_count=7&theme=dracula"/>
+<table>
+  <tr>
+    <td valign="top">
+      <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=loubacker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </td>
+    <td valign="top">
+      <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loubacker&layout=compact&langs_count=7&theme=dracula"/>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ## 💻 Tecnologias e Ferramentas
 <h3>Desenvolvedor Full-Stack</h3>
