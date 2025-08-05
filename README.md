@@ -21,7 +21,6 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
   </a>
 </p>
 <br>
-<br>
 
 ## 💻 Tecnologias e Ferramentas
 <h3>Desenvolvedor Full-Stack</h3>
@@ -48,7 +47,6 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
   &nbsp;
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
 </p>
-<br>
 <br>
           
 ## Infraestrutura, Performance & Observabilidade:
