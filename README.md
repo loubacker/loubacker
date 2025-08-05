@@ -23,6 +23,7 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 
 
 ![Estatísticas do GitHub](https://github-readme-stats-lyart-chi-67.vercel.app/api?username=loubacker&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats-lyart-chi-67.vercel.app/api/top-langs/?username=loubacker&layout=compact&theme=dracula&count_private=true)
 [![Top Langs](https://github-readme-stats-lyart-chi-67.vercel.app/api/top-langs/?username=loubacker&layout=compact&theme=dracula&count_private=true)](https://github.com/loubacker/github-readme-stats&count_private=true)
 <img align="center" height="180em" src="https://github-readme-stats-3vfgvwefk-loubackergames-6854s-projects.vercel.app/api/top-langs/?username=loubacker&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 
