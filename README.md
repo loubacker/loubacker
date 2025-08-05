@@ -3,7 +3,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2476F7&width=435&lines=Ol%C3%A1%2C+Me+chamo+Gabriel+Loubacker!%F0%9F%91%8B%F0%9F%8F%BB;Sou+Desenvolvedor+Full-Stack;Especialista+em+Infraestrutura+%F0%9F%96%A5%EF%B8%8F;Arquiteturas+Distribuidas;Microservices%2C+Cloud+Computing+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 </h1>
 
-<img align="right" alt="coding gif" width="40" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V5eTA4N2N1dHdxeHlyazU4NXgyOWR6eDV5YzI0YXRpcWFkcXJndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif">
+<img align="right" alt="coding gif" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V5eTA4N2N1dHdxeHlyazU4NXgyOWR6eDV5YzI0YXRpcWFkcXJndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif">
 
 <p align="left">Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java e ecossistema Spring. Possuo uma forte base de conhecimento em arquiteturas de software robustas e padrões de SAGA para arquiteturas distribuídas, com foco em construir soluções eficientes, escaláveis e observáveis. Atualmente trabalho e atuo como desenvolvedor em 2 empresas, foco em aprimoramento de sistemas, performance e segurança da infraestrutura.</p>
 
