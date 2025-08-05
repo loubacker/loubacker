@@ -66,6 +66,18 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 <br>
           
 ## Frontend:
+<p>
+  <tr>
+    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" width="40" height="40"/></td>
+    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/></td>
+    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/></td>
+    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/></td>
+    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
+    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/></td>
+    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40"/></td>
+    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/></td>
+  </tr>
+</p>
 <p>No meu desenvolvimento front-end com Spring, utilizo principalmente HTML, CSS e Thymeleaf para renderizar templates dinâmicos, como páginas de autenticação, envio de e-mails, reset de senhas e páginas estáticas. Essa abordagem é simples e prática, especialmente para implementações rápidas no servidor de autenticação. No entanto, para sites institucionais, que funcionam como a vitrine da empresa, prefiro usar React, pois ele oferece uma gama mais ampla de bibliotecas que me permitem focar na experiência do usuário (UX) e na interface (UI), proporcionando interações mais ricas e dinâmicas.</p>
 
 <p>Para dashboards e sistemas robustos, como os utilizados em clínicas, hospitais, escritórios de advocacia ou até mesmo em e-commerce, o Angular é minha escolha. Isso porque ele oferece uma tipagem forte e um acoplamento mais eficiente, essenciais quando lidamos com sistemas complexos, onde múltiplos painéis de acesso são controlados por diferentes roles e permissões. O Angular se destaca em termos de performance, especialmente em aplicações com grande quantidade de componentes interativos.</p>
@@ -121,18 +133,6 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
         headers
       });
     }
-</p>
-<p>
-  <tr>
-    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" width="40" height="40"/></td>
-    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/></td>
-    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/></td>
-    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/></td>
-    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
-    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/></td>
-    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40"/></td>
-    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/></td>
-  </tr>
 </p>
           
 
