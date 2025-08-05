@@ -74,7 +74,7 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 <!-- ![Logo](https://images.weserv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jaegertracing/jaegertracing-plain-wordmark.svg&bg=ffffff) -->
 <br>
 
-## <img alt="image" src="https://github.com/user-attachments/assets/a27181f4-4f66-4686-9e78-6d31d9aa0a6d" /> Frontend:
+## ![launch](https://github.com/user-attachments/assets/38b69fd1-0cf6-43dd-b9d0-200d7ae1e7f6) Frontend:
 <h3> Segurança, SPA's Distribuidos e Orquestração </h3>
 <p>
   <tr>
