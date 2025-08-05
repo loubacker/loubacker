@@ -12,8 +12,8 @@ Desenvolvedor Back-End e Especialista em Infraestrutura apaixonado por Java e ec
   <a href="https://www.instagram.com/loubacker" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank" style="display: inline-flex; align-items: center; background-color: #0077B5; color: white; padding: 8px 15px; border-radius: 20px; text-decoration: none;">
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" style="max-width: 20px; height: auto; margin-right: 8px;"/>
+  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank" style="display: inline-flex; align-items: center; background-color: #0077B5; color: white; padding: 8px 15px; border-radius: 30px; text-decoration: none; font-size: 16px; font-weight: bold; border: 2px solid #0077B5;">
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" style="width: 20px; height: 20px; margin-right: 10px;"/>
     LinkedIn
   </a>
 </div>
