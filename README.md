@@ -39,68 +39,17 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="100" height="100"/>
 
-<h5> Reverse Proxy com bypass para servidor Auth </h5>
+<h5> Exp: Reverse Proxy </h5>
 
-    map $http_x_bypass_auth $bypass_auth {
-        "gateway-Y" 1;
-        default 0;
-    }
-    
     server {
-        listen dominio.com.br;
-        server_name localhost _;
-    
-        access_log /var/log/nginx/auth-server.access.log;
-        error_log /var/log/nginx/auth-server.error.log;
-    
-        # Endpoint para debug - ver as variáveis
-        location /debug {
-            return 200 "X-Bypass-Auth: [$http_x_bypass_auth]\nBypass flag: [$bypass_auth]\nOrigin: [$http_origin]\nUser-Agent: [$http_user_agent]\n";
-            add_header Content-Type text/plain;
-        }
-    
-        location /bypass {
-            proxy_pass http://localhost:Y/;
-            proxy_set_header Host $host;
-            proxy_set_header X-Real-IP $remote_addr;
-            proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-            proxy_set_header X-Forwarded-Proto $scheme;
-            proxy_set_header Authorization $http_authorization;
-            proxy_set_header Cookie $http_cookie;
-        }
+        server_name dominio.com.br;
     
         location / {
+            proxy_pass http://localhost:X;
             proxy_set_header Host $host;
             proxy_set_header X-Real-IP $remote_addr;
             proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
             proxy_set_header X-Forwarded-Proto $scheme;
-            proxy_set_header Authorization $http_authorization;
-            proxy_set_header Cookie $http_cookie;
-    
-            if ($bypass_auth = 1) {
-                proxy_pass http://localhost:X;
-                break;
-            }
-    
-            auth_request /gateway-auth;
-    
-            proxy_pass http://localhost:X;
-        }
-    
-        location = /gateway-auth {
-            internal;
-            proxy_pass http://localhost:Y/auth-check;
-            proxy_pass_request_body off;
-            proxy_set_header Content-Length "";
-            proxy_set_header X-Original-URI $request_uri;
-            proxy_set_header Authorization $http_authorization;
-            proxy_set_header Cookie $http_cookie;
-        }
-    
-        error_page 401 403 = @auth_redirect;
-    
-        location @auth_redirect {
-            return 302 http://localhost:Y/auth?redirect_uri=$scheme://$host:$server_port$request_uri;
         }
     }
 
@@ -126,7 +75,7 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 </p>
 <br>
           
-## 👁️👁️‍🗨️ Infraestrutura, Performance & Observabilidade:
+## 👁️ Infraestrutura, Performance & Observabilidade:
 <h3> Especialista em Observabilidade </h3>
 <p>Tenho um foco dedicado em observabilidade, garantindo que as aplicações sejam transparentes, resilientes e de alto desempenho. Meu fluxo de trabalho segue o padrão OTLP (OpenTelemetry Protocol), a cada serviço e aplicação Spring utilizo o Actuator, Micrometer e o Cloud Sleuth para coleta e envio de métricas, logs e tracing. Essas dependências integradas ao OTLP tornam a implementação rápida, eficiente e de baixo custo, sem a necessidade de sistemas de mensageria com brokers. Além disso, como muitas dessas ferramentas são escritas em GO e rodam em código de máquina, e o consumo de memória e processamento é minimizado, proporcionando uma solução leve e escalável. A implementação pode ser realizada tanto via gRPC quanto REST, garantindo flexibilidade no ambiente de produção.</p>
 <p>
