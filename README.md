@@ -22,7 +22,10 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 </p>
 
 # 💻 Tecnologias e Ferramentas
-Minha stack principal é focada no ecossistema Java, mas também tenho proficiência em tecnologias de front-end e uma vasta experiência em infraestrutura e nuvem.
+<h3>Desenvolvedor Full-Stack</h3>
+Minha base tecnológica é formada pelo ecossistema Java, mas também possuo uma vasta experiência em infraestrutura de serviços Cloud e Linux, que são as bases para construir sistemas sólidos, escaláveis, resilientes e eficientes. Tenho um forte domínio em ambientes de produção, com expertise em migração de dados, refatoração de código e entidades, e modificação de tabelas diretamente via SQL. Além disso, possuo ampla experiência em mapear servidores e serviço Cloud, fazer backup de aplicações via Git e backup do bancos de dados em produção. Tenho amplo conhecimento da sintaxe no uso e na administração do NGINX, para balanceamento de carga, reverse proxy, cache management, e configuração de firewall em VPS e serviços Cloud, utilizando Gateway. Esses elementos são fundamentais na minha abordagem para garantir a robustez, segurança e alta disponibilidade dos sistemas.
+
+Além disso, tenho proficiência em Docker, tanto para aplicações backend como frontend, incluindo frameworks como React e Angular. Também gerencio aplicações Spring diretamente na máquina via systemd e unit/service. Sou capaz de configurar e integrar variáveis de ambiente através de arquivos .env, configurar certificados SSL via Let's Encrypt para domínios e subdomínios, sem custo com wildcards, e implementar monitoramento para escalabilidade vertical e horizontal, garantindo alta disponibilidade. Em cenários de alta demanda, consigo escalar e separar servidores de forma isolada para Banco de Dados, Cacheamento Redis, e realizar duplicação de servidores para aumentar o fluxo de clientes, tudo configurado manualmente na unha, minimizando ao máximo os custos, e sem a dependência de serviços como AWS.
 
 # Backend & Arquitetura:
           
@@ -40,6 +43,8 @@ Minha stack principal é focada no ecossistema Java, mas também tenho proficiê
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>
   &nbsp;
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
+  &nbsp;
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="50" height="50"/>
   &nbsp;
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
 </p>
