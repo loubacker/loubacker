@@ -20,6 +20,8 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
     <img loading="lazy" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
+<br>
+<br>
 
 ## 💻 Tecnologias e Ferramentas
 <h3>Desenvolvedor Full-Stack</h3>
@@ -46,6 +48,8 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
   &nbsp;
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
 </p>
+<br>
+<br>
           
 ## Infraestrutura, Performance & Observabilidade:
 <h3> 🚀 Especialista em Observabilidade </h3>
