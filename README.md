@@ -1,4 +1,5 @@
 ## Olá, me chamo Gabriel Loubacker <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="20px" alt="Oi">
+<img align="right" alt="coding gif" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V5eTA4N2N1dHdxeHlyazU4NXgyOWR6eDV5YzI0YXRpcWFkcXJndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif">
 
 Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java e ecossistema Spring. Possuo uma forte base de conhecimento em arquiteturas de software robustas e padrões de SAGA para arquiteturas distribuídas, com foco em construir soluções eficientes, escaláveis e observáveis. Atualmente trabalho e atuo como desenvolvedor em 2 empresas, foco em aprimoramento de sistemas, performance e segurança da infraestrutura.
 
