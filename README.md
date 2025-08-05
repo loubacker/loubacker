@@ -86,11 +86,14 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 
 <p>Ao falar sobre frontend para grandes serviços administrativos, aplico a mesma lógica de microserviços. No caso de SPAs, que atuam como orquestradores, temos diferentes dashboards interconectados, liberados conforme o role do usuário. Cada acesso à rota do serviço SPA ou dos dashboards, independentemente do orquestrador, sempre passa por um gateway, configurado diretamente no serviço da VPS ou da cloud, utilizando NGINX para o proxy. Isso garante a segurança e a resiliência das aplicações, pois o gateway filtra o tráfego, protegendo os SPAs. Além disso, o BFF (Backend For Frontend), que atua como porta de entrada, se comunica com os serviços distribuídos no backend, e é o único ponto de comunicação com o frontend. A segurança é reforçada através de autenticação com cookies HttpOnly e secure, além de CSRF com Double Submit.</p>
 
-<h3> Configuração dos Cookies, adiciona e limpa os cookies </h3>
 <p align="left">
+  <h4>Configuração dos Cookies, adiciona e limpa os cookies</h4>
   <img width="400" height="367" alt="image" src="https://github.com/user-attachments/assets/ec58b238-d7ad-4909-b9f9-529a7b7150a5" style="display: inline-block; margin-right: 20px;"/>
+
+  <h4>Interceptador adiciona os headers de segurança (CSRF e Fingerprint) nas requisições</h4>
   <img width="400" height="161" alt="image" src="https://github.com/user-attachments/assets/b7e24252-2f49-4cda-b35e-1c94b3a09bc1" style="display: inline-block;"/>
 </p>
+
 
 
 <h3> Configuração dos Cookies, adiciona e limpa os cookies </h3>
