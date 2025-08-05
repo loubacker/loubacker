@@ -21,6 +21,12 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
   </a>
 </p>
 
+![Estatísticas do GitHub](https://github-readme-stats-3vfgvwefk-loubackergames-6854s-projects.vercel.app/api?username=loubacker&show_icons=true&count_private=true)
+
+![Estatísticas do GitHub](https://github-readme-stats-lyart-chi-67.vercel.app/api?username=loubacker&show_icons=true&count_private=true)
+
+
+
 <br>
 
 ## 💻 Tecnologias e Ferramentas
