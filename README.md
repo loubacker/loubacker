@@ -36,6 +36,74 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 ## 💻 Tecnologias e Ferramentas:
 <h3>Desenvolvedor Full-Stack</h3>
 <p>Minha base tecnológica é formada pelo ecossistema Java, mas também possuo uma vasta experiência em infraestrutura de serviços Cloud e Linux, que são as bases para construir sistemas sólidos, escaláveis, resilientes e eficientes. Tenho um forte domínio em ambientes de produção, com expertise em migração de dados, refatoração de código e entidades, e modificação de tabelas diretamente via SQL. Além disso, possuo ampla experiência em mapear servidores e serviço Cloud, fazer backup de aplicações via Git e backup do bancos de dados em produção. Tenho amplo conhecimento da sintaxe no uso e na administração do NGINX, para balanceamento de carga, reverse proxy, cache management, e configuração de firewall em VPS e serviços Cloud, utilizando Gateway. Esses elementos são fundamentais na minha abordagem para garantir a robustez, segurança e alta disponibilidade dos sistemas.</p>
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="100" height="100"/>
+
+<h5> Reverse Proxy com bypass para servidor Auth </h5>
+
+    map $http_x_bypass_auth $bypass_auth {
+        "gateway-9000" 1;
+        default 0;
+    }
+    
+    server {
+        listen dominio.com.br;
+        server_name localhost _;
+    
+        access_log /var/log/nginx/auth-server.access.log;
+        error_log /var/log/nginx/auth-server.error.log;
+    
+        # Endpoint para debug - ver as variáveis
+        location /debug {
+            return 200 "X-Bypass-Auth: [$http_x_bypass_auth]\nBypass flag: [$bypass_auth]\nOrigin: [$http_origin]\nUser-Agent: [$http_user_agent]\n";
+            add_header Content-Type text/plain;
+        }
+    
+        location /bypass {
+            proxy_pass http://localhost:Y/;
+            proxy_set_header Host $host;
+            proxy_set_header X-Real-IP $remote_addr;
+            proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+            proxy_set_header X-Forwarded-Proto $scheme;
+            proxy_set_header Authorization $http_authorization;
+            proxy_set_header Cookie $http_cookie;
+        }
+    
+        location / {
+            proxy_set_header Host $host;
+            proxy_set_header X-Real-IP $remote_addr;
+            proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+            proxy_set_header X-Forwarded-Proto $scheme;
+            proxy_set_header Authorization $http_authorization;
+            proxy_set_header Cookie $http_cookie;
+    
+            if ($bypass_auth = 1) {
+                proxy_pass http://localhost:X;
+                break;
+            }
+    
+            auth_request /gateway-auth;
+    
+            proxy_pass http://localhost:X;
+        }
+    
+        location = /gateway-auth {
+            internal;
+            proxy_pass http://localhost:Y/auth-check;
+            proxy_pass_request_body off;
+            proxy_set_header Content-Length "";
+            proxy_set_header X-Original-URI $request_uri;
+            proxy_set_header Authorization $http_authorization;
+            proxy_set_header Cookie $http_cookie;
+        }
+    
+        error_page 401 403 = @auth_redirect;
+    
+        location @auth_redirect {
+            return 302 http://localhost:Y/auth?redirect_uri=$scheme://$host:$server_port$request_uri;
+        }
+    }
+
 <p>Além disso, tenho proficiência em Docker, tanto para aplicações backend como frontend, incluindo frameworks como React e Angular. Também gerencio aplicações Spring diretamente na máquina via systemd e unit/service. Sou capaz de configurar e integrar variáveis de ambiente através de arquivos .env, configurar certificados SSL via Let's Encrypt para domínios e subdomínios, sem custo com wildcards, e implementar monitoramento para escalabilidade vertical e horizontal, garantindo alta disponibilidade. Em cenários de alta demanda, consigo escalar e separar servidores de forma isolada para Banco de Dados, Cacheamento Redis, e realizar duplicação de servidores para aumentar o fluxo de clientes, tudo configurado manualmente na unha, minimizando ao máximo os custos, e sem a dependência de serviços como AWS.</p>
 
 <h4>Backend & Tecnologias:</h4> 
@@ -47,8 +115,6 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/>
   &nbsp;
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
-  &nbsp;
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="50" height="50"/>
   &nbsp;
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>
   &nbsp;
