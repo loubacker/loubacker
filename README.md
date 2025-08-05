@@ -72,10 +72,10 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
   </tr>
 </table>
 <!-- ![Logo](https://images.weserv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jaegertracing/jaegertracing-plain-wordmark.svg&bg=ffffff) -->
-          
+          <img loading="lazy" src="https://www.flaticon.com/free-animated-icon/launch_17122740?term=software&page=1&position=15&origin=search&related_id=17122740" width="45" height="45"/>
 <br>
-          
-## 🌍 Frontend:
+
+## <img loading="lazy" src="https://www.flaticon.com/free-animated-icon/launch_17122740?term=software&page=1&position=15&origin=search&related_id=17122740"/> Frontend:
 <h3> Segurança, SPA's Distribuidos e Orquestração </h3>
 <p>
   <tr>
