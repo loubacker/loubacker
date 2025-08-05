@@ -82,7 +82,7 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 
 <p>Para dashboards e sistemas robustos, como os utilizados em clínicas, hospitais, escritórios de advocacia ou até mesmo em e-commerce, o Angular é minha escolha. Isso porque ele oferece uma tipagem forte e um acoplamento mais eficiente, essenciais quando lidamos com sistemas complexos, onde múltiplos painéis de acesso são controlados por diferentes roles e permissões. O Angular se destaca em termos de performance, especialmente em aplicações com grande quantidade de componentes interativos.</p>
 
-<img width="1600" height="727" alt="image" src="https://github.com/user-attachments/assets/6380d57a-a95d-4aac-b171-03e6e8afea5e" />
+<p><img width="1600" height="727" alt="image" src="https://github.com/user-attachments/assets/6380d57a-a95d-4aac-b171-03e6e8afea5e"/></p>
 
 <p>Ao falar sobre frontend para grandes serviços administrativos, aplico a mesma lógica de microserviços. No caso de SPAs, que atuam como orquestradores, temos diferentes dashboards interconectados, liberados conforme o role do usuário. Cada acesso à rota do serviço SPA ou dos dashboards, independentemente do orquestrador, sempre passa por um gateway, configurado diretamente no serviço da VPS ou da cloud, utilizando NGINX para o proxy. Isso garante a segurança e a resiliência das aplicações, pois o gateway filtra o tráfego, protegendo os SPAs. Além disso, o BFF (Backend For Frontend), que atua como porta de entrada, se comunica com os serviços distribuídos no backend, e é o único ponto de comunicação com o frontend. A segurança é reforçada através de autenticação com cookies HttpOnly e secure, além de CSRF com Double Submit.</p>
 <p align="left">
