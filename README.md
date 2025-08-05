@@ -126,7 +126,7 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 </p>
 <br>
           
-## 👁️ Infraestrutura, Performance & Observabilidade:
+## 👁️👁️‍🗨️ Infraestrutura, Performance & Observabilidade:
 <h3> Especialista em Observabilidade </h3>
 <p>Tenho um foco dedicado em observabilidade, garantindo que as aplicações sejam transparentes, resilientes e de alto desempenho. Meu fluxo de trabalho segue o padrão OTLP (OpenTelemetry Protocol), a cada serviço e aplicação Spring utilizo o Actuator, Micrometer e o Cloud Sleuth para coleta e envio de métricas, logs e tracing. Essas dependências integradas ao OTLP tornam a implementação rápida, eficiente e de baixo custo, sem a necessidade de sistemas de mensageria com brokers. Além disso, como muitas dessas ferramentas são escritas em GO e rodam em código de máquina, e o consumo de memória e processamento é minimizado, proporcionando uma solução leve e escalável. A implementação pode ser realizada tanto via gRPC quanto REST, garantindo flexibilidade no ambiente de produção.</p>
 <p>
@@ -143,7 +143,7 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 <!-- ![Logo](https://images.weserv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jaegertracing/jaegertracing-plain-wordmark.svg&bg=ffffff) -->
 <br>
 
-## Frontend:
+## ⚛️ Frontend:
 <h3> Segurança, SPA's Distribuidos e Orquestração </h3>
 <p>
   <tr>
