@@ -21,6 +21,8 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
   </a>
 </p>
 
+![Estatísticas do GitHub](https://seu-deploy.vercel.app/api?username=loubacker&show_icons=true&count_private=true)
+
 <table>
   <tr>
     <td valign="top">
