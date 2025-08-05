@@ -44,14 +44,13 @@ Tenho um foco dedicado em observabilidade para garantir que as aplicações seja
 <img loading="lazy" src="https://img.shields.io/badge/OpenTelemetry-109010?style=for-the-badge&logo=opentelemetry&logoColor=white" />
 <img loading="lazy" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
 </p>
-<p>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="40" height="40"/>
-&nbsp;
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" width="45" height="45" style="margin-top:10"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jaegertracing/jaegertracing-original-wordmark.svg" width="40" height="40"/>
-          
-
-</p>
+<table>
+  <tr>
+    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="40" height="40"/></td>
+    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" width="40" height="40"/></td>
+    <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jaegertracing/jaegertracing-original-wordmark.svg" width="40" height="40"/></td>
+  </tr>
+</table>
 
 # Frontend:
 
