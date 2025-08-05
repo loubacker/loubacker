@@ -47,8 +47,8 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
 </p>
           
-# Infraestrutura, Performance & Observabilidade:
-🚀 Especialista em Observabilidade
+## Infraestrutura, Performance & Observabilidade:
+<h3> 🚀 Especialista em Observabilidade </h3>
 Tenho um foco dedicado em observabilidade para garantir que as aplicações sejam transparentes, resilientes e performáticas. Meu fluxo de trabalho segue o padrão OTLP (OpenTelemetry Protocol).
 <p>
 <img loading="lazy" src="https://img.shields.io/badge/OpenTelemetry-109010?style=for-the-badge&logo=opentelemetry&logoColor=white" />
