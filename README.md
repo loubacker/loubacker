@@ -109,7 +109,7 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 
 <!-- ![Logo](https://images.weserv.nl/?url=URL_AQUI&bg=ffffff) -->
 
-
+<h5> Fluxo de Autenticação e Vida dos Tokens </h5>
 <td valign="top"><img align="center" width="800" alt="image" src="https://github.com/user-attachments/assets/c2f26a51-41cf-4948-bd21-a1111d3c99e6"/></td>
 
 
