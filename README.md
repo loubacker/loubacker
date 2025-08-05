@@ -22,6 +22,9 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 </p>
 <br>
 
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=loubacker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loubacker&layout=compact&langs_count=7&theme=dracula"/>
+
 ## 💻 Tecnologias e Ferramentas
 <h3>Desenvolvedor Full-Stack</h3>
 <p>Minha base tecnológica é formada pelo ecossistema Java, mas também possuo uma vasta experiência em infraestrutura de serviços Cloud e Linux, que são as bases para construir sistemas sólidos, escaláveis, resilientes e eficientes. Tenho um forte domínio em ambientes de produção, com expertise em migração de dados, refatoração de código e entidades, e modificação de tabelas diretamente via SQL. Além disso, possuo ampla experiência em mapear servidores e serviço Cloud, fazer backup de aplicações via Git e backup do bancos de dados em produção. Tenho amplo conhecimento da sintaxe no uso e na administração do NGINX, para balanceamento de carga, reverse proxy, cache management, e configuração de firewall em VPS e serviços Cloud, utilizando Gateway. Esses elementos são fundamentais na minha abordagem para garantir a robustez, segurança e alta disponibilidade dos sistemas.</p>
