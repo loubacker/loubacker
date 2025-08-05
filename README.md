@@ -68,7 +68,7 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
     <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jaegertracing/jaegertracing-plain-wordmark.svg" width="45" height="45"/></td>
   </tr>
 </table>
-<!-- ![Logo](https://images.weserv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jaegertracing/jaegertracing-plain-wordmark.svg&bg=ffffff) -->
+<!-- ![Logo](https://images.weserv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jaegertracing/jaegertracing-plain-wordmark.svg&bg=fffff) -->
 <br>
           
 ## 🌍 Frontend:
