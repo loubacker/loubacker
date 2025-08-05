@@ -2,18 +2,18 @@
 
 Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java e ecossistema Spring. Possuo uma forte base de conhecimento em arquiteturas de software robustas e padrões de SAGA para arquiteturas distribuídas, meu foco é construir soluções eficientes, escaláveis e observáveis. Atualmente trabalho e atuo como desenvolvedor em 2 empresas, foco em aprimoramento de sistemas, performance e segurança da infraestrutura.
 
-<h3>Proficiências</h3>
+<h3>Áreas de especialização:</h3>
 
 - Especialista em infraestrutura
-- Arquiteto de Software
-- Engenheiro de Soluções
+- Especialização em Microserviços e Arquitetura de Software
+- Engenharia de Soluções com Foco em Arquitetura Distribuída e Cloud Computing
 
 📬 Conecte-se comigo:
 <p>
-  <a href="https://www.instagram.com/loubacker" target="_blank">
+  <a href="https://www.instagram.com/loubacker">
     <img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  <a href="https://www.linkedin.com/in/loubacker" target="_blank">
+  <a href="https://www.linkedin.com/in/loubacker">
     <img loading="lazy" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
