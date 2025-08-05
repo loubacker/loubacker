@@ -64,7 +64,7 @@ Tenho um foco dedicado em observabilidade para garantir que as aplicações seja
   </tr>
 </table>
           
-# Frontend:
+## Frontend:
 <p>
   <tr>
     <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" width="40" height="40"/></td>
