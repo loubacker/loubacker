@@ -8,6 +8,7 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 - Especialização em Microserviços e Arquitetura de Software
 - Engenharia de Soluções com Foco em Arquitetura Distribuída e Cloud Computing
 
+<br>
 <p>
 📬 Conecte-se comigo:
 </p>
