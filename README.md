@@ -1,6 +1,6 @@
 ## Olá, me chamo Gabriel Loubacker <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="Oi">
 
-Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java e ecossistema Spring. Possuo uma forte base de conhecimento em arquiteturas de software robustas e padrões de SAGA para arquiteturas distribuídas, meu foco é construir soluções eficientes, escaláveis e observáveis. Atualmente trabalho e atuo como desenvolvedor em 2 empresas, foco em aprimoramento de sistemas, performance e segurança da infraestrutura.
+Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java e ecossistema Spring. Possuo uma forte base de conhecimento em arquiteturas de software robustas e padrões de SAGA para arquiteturas distribuídas, com foco em construir soluções eficientes, escaláveis e observáveis. Atualmente trabalho e atuo como desenvolvedor em 2 empresas, foco em aprimoramento de sistemas, performance e segurança da infraestrutura.
 
 <h3>Áreas de especialização:</h3>
 
