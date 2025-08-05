@@ -110,6 +110,6 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 <!-- ![Logo](https://images.weserv.nl/?url=URL_AQUI&bg=ffffff) -->
 
 
-<td valign="top"><img loading="lazy" align="right" width="500" alt="image" src="https://github.com/user-attachments/assets/c2f26a51-41cf-4948-bd21-a1111d3c99e6"/></td>
+<td valign="top"><img align="center" width="800" alt="image" src="https://github.com/user-attachments/assets/c2f26a51-41cf-4948-bd21-a1111d3c99e6"/></td>
 
 
