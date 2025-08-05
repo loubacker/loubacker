@@ -25,11 +25,11 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 Minha stack principal é focada no ecossistema Java, mas também tenho proficiência em tecnologias de front-end e uma vasta experiência em infraestrutura e nuvem.
 
 # Backend & Arquitetura:
-
+          
 <p>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" height="50"/>
   &nbsp;
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="50" height="50"/>
   &nbsp;
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/>
   &nbsp;
