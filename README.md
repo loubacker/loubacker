@@ -66,6 +66,60 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 <br>
           
 ## Frontend:
+<p>No meu desenvolvimento front-end com Spring, utilizo principalmente HTML, CSS e Thymeleaf para renderizar templates dinâmicos, como páginas de autenticação, envio de e-mails, reset de senhas e páginas estáticas. Essa abordagem é simples e prática, especialmente para implementações rápidas no servidor de autenticação. No entanto, para sites institucionais, que funcionam como a vitrine da empresa, prefiro usar React, pois ele oferece uma gama mais ampla de bibliotecas que me permitem focar na experiência do usuário (UX) e na interface (UI), proporcionando interações mais ricas e dinâmicas.</p>
+
+<p>Para dashboards e sistemas robustos, como os utilizados em clínicas, hospitais, escritórios de advocacia ou até mesmo em e-commerce, o Angular é minha escolha. Isso porque ele oferece uma tipagem forte e um acoplamento mais eficiente, essenciais quando lidamos com sistemas complexos, onde múltiplos painéis de acesso são controlados por diferentes roles e permissões. O Angular se destaca em termos de performance, especialmente em aplicações com grande quantidade de componentes interativos.</p>
+
+<img width="1600" height="727" alt="image" src="https://github.com/user-attachments/assets/6380d57a-a95d-4aac-b171-03e6e8afea5e" />
+
+<p>Ao falar sobre frontend para grandes serviços administrativos, aplico a mesma lógica de microserviços. No caso de SPAs, que atuam como orquestradores, temos diferentes dashboards interconectados, liberados conforme o role do usuário. Cada acesso à rota do serviço SPA ou dos dashboards, independentemente do orquestrador, sempre passa por um gateway, configurado diretamente no serviço da VPS ou da cloud, utilizando NGINX para o proxy. Isso garante a segurança e a resiliência das aplicações, pois o gateway filtra o tráfego, protegendo os SPAs. Além disso, o BFF (Backend For Frontend), que atua como porta de entrada, se comunica com os serviços distribuídos no backend, e é o único ponto de comunicação com o frontend. A segurança é reforçada através de autenticação com cookies HttpOnly e secure, além de CSRF com Double Submit.</p>
+<p>
+  
+    public static void addSecureCookie(HttpServletResponse response,
+            String name,
+            String value,
+            int maxAgeSeconds) {
+
+        ResponseCookie cookie = ResponseCookie.from(name, value)
+                .httpOnly(true)
+                .secure(true)
+                .sameSite("Lax")
+                .path("/")
+                .maxAge(maxAgeSeconds)
+                .build();
+        
+        response.addHeader("Set-Cookie", cookie.toString());
+    }
+    
+    public static void removeCookie(HttpServletResponse response, String name) {
+        ResponseCookie cookie = ResponseCookie.from(name, "")
+                .httpOnly(true)
+                .secure(true)
+                .sameSite("Lax")
+                .path("/")
+                .maxAge(0)
+                .build();
+        response.addHeader("Set-Cookie", cookie.toString());
+    }
+
+    function addSecurityHeaders(request: HttpRequest<unknown>, csrfToken: string | null): HttpRequest<unknown> {
+      const fingerprint = sessionStorage.getItem('fp');
+      let headers = request.headers;
+      
+      if (fingerprint) {
+        headers = headers.set('X-Fingerprint', fingerprint);
+      }
+      
+      if (csrfToken) {
+        headers = headers.set('X-CSRF-Token', csrfToken);
+      }
+    
+      return request.clone({
+        withCredentials: true,
+        headers
+      });
+    }
+</p>
 <p>
   <tr>
     <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" width="40" height="40"/></td>
