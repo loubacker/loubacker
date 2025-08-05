@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&width=435&lines=Olá,%2C+Me+chamo+Gabriel+Loubacker!;Sou+Desenvolvedor+Full-Stack+e+Especialista+em+Infraestrutura+%F0%9F%91%8B%3B%0AAtuo+com+Java%2C+Spring%2C+Microservi%C3%A7os%2C+Cloud+Computing+%26+Docker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&width=435&lines=Olá%2C+Me+chamo+Gabriel+Loubacker!;Sou+Desenvolvedor+Full-Stack;Especialista+em+Infraestrutura+%F0%9F%99%8C;Atuo+com+Java%2C+Spring%2C+Microservi%C3%A7os;Cloud+Computing+%26+Docker+%E2%98%80%EF%B8%8F)](https://git.io/typing-svg)
 
 <img align="right" alt="coding gif" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V5eTA4N2N1dHdxeHlyazU4NXgyOWR6eDV5YzI0YXRpcWFkcXJndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif">
 
