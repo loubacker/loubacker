@@ -7,7 +7,8 @@ Desenvolvedor Back-End e Especialista em Infraestrutura apaixonado por Java e ec
 📬 Conecte-se comigo:
 <div>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+
 
   
   <a href="https://www.instagram.com/loubacker" target="_blank">
