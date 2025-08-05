@@ -49,8 +49,8 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 </p>
 <br>
           
-## Infraestrutura, Performance & Observabilidade:
-<h3> 🚀 Especialista em Observabilidade </h3>
+## 👁️ Infraestrutura, Performance & Observabilidade:
+<h3> Especialista em Observabilidade </h3>
 <p>Tenho um foco dedicado em observabilidade, garantindo que as aplicações sejam transparentes, resilientes e de alto desempenho. Meu fluxo de trabalho segue o padrão OTLP (OpenTelemetry Protocol), utilizando as dependências do Spring como Spring Actuator, Micrometer e Spring Cloud Sleuth para coleta e envio de métricas, logs e tracing. Essas dependências integradas ao OTLP tornam a implementação rápida, eficiente e de baixo custo, sem a necessidade de sistemas de mensageria com brokers. Além disso, como muitas dessas ferramentas são escritas em Go e rodam em código de máquina, o consumo de memória e processamento é minimizado, proporcionando uma solução leve e escalável. A implementação pode ser realizada tanto via gRPC quanto REST, garantindo flexibilidade no ambiente de produção.</p>
 <p>
 <img loading="lazy" src="https://img.shields.io/badge/OpenTelemetry-109010?style=for-the-badge&logo=opentelemetry&logoColor=white" />
