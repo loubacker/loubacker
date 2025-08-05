@@ -1,6 +1,5 @@
-# Olá, me chamo Gabriel Loubacker! 👋
-<a href="https://github.com/loubacker">
-</a>
+## Me chamo Gabriel Loubacker <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="Oi">
+<h3>Arquiteto de Software | Engenheiro de Soluções e Especialista em infraestrutura</h3>
 
 Desenvolvedor Back-End e Especialista em Infraestrutura apaixonado por Java e ecossistema Spring. Com uma forte base em arquiteturas de software robustas e distribuídas, meu foco é construir soluções eficientes, escaláveis e observáveis. Atualmente, atuo em duas frentes, aprimorando sistemas e garantindo a performance e segurança da infraestrutura.
 
