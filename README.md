@@ -26,8 +26,6 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
   <img align="center" height="180em" src="https://github-readme-stats-lyart-chi-67.vercel.app/api/top-langs/?username=loubacker&layout=compact&theme=dracula"/>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
 <br>
 
 ## 💻 Tecnologias e Ferramentas:
