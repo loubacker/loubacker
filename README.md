@@ -21,19 +21,6 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
   </a>
 </p>
 
-![Estatísticas do GitHub](https://seu-deploy.vercel.app/api?username=loubacker&show_icons=true&count_private=true)
-
-<table>
-  <tr>
-    <td valign="top">
-      <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=loubacker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </td>
-    <td valign="top">
-      <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loubacker&layout=compact&langs_count=7&theme=dracula"/>
-    </td>
-  </tr>
-</table>
-
 <br>
 
 ## 💻 Tecnologias e Ferramentas
