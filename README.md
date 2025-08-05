@@ -92,7 +92,7 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
       <h5>Configuração dos Cookies, adiciona e limpa os cookies</h5>
       <img loading="lazy" align="left" width="400" alt="image" src="https://github.com/user-attachments/assets/ec58b238-d7ad-4909-b9f9-529a7b7150a5"/>
     </td>
-    <td valign="top">
+    <td valign="top" bgcolor="#ffffff">
       <h5>Interceptador adiciona os headers de segurança (CSRF e Fingerprint) nas requisições</h5>
       <img loading="lazy" align="right" width="500" alt="image" src="https://github.com/user-attachments/assets/b7e24252-2f49-4cda-b35e-1c94b3a09bc1"/>
     </td>
