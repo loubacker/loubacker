@@ -8,10 +8,9 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 - Especialização em Microserviços e Arquitetura de Software
 - Engenharia de Soluções com Foco em Arquitetura Distribuída e Cloud Computing
 
-<br>
+<p>
 📬 Conecte-se comigo:
-<br>
-
+</p>
 <p>
   <a href="https://www.instagram.com/loubacker">
     <img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
