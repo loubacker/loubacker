@@ -63,6 +63,7 @@ Tenho um foco dedicado em observabilidade para garantir que as aplicações seja
     <td valign="top"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jaegertracing/jaegertracing-plain-wordmark.svg" width="45" height="45"/></td>
   </tr>
 </table>
+<br>
           
 ## Frontend:
 <p>
