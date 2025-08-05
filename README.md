@@ -23,7 +23,7 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 
 
 ![Estatísticas do GitHub](https://github-readme-stats-lyart-chi-67.vercel.app/api?username=loubacker&show_icons=true&theme=dracula&count_private=true)
-![Estatísticas do GitHub](https://github-readme-stats-lyart-chi-67.vercel.app/api?username=loubacker&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats-lyart-chi-67.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&count_private=true)
 
 
 
