@@ -88,10 +88,10 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 
 <tr>
   <td valign="top"><h5>Configuração dos Cookies, adiciona e limpa os cookies</h5></td>
-  <td valign="top"><img align="left" width="400" alt="image" src="https://github.com/user-attachments/assets/ec58b238-d7ad-4909-b9f9-529a7b7150a5" style="display: block;"/></td>
+  <td valign="top"><img loading="lazy" align="left" width="400" alt="image" src="https://github.com/user-attachments/assets/ec58b238-d7ad-4909-b9f9-529a7b7150a5"/></td>
 
   <td valign="top"><h5>Interceptador adiciona os headers de segurança (CSRF e Fingerprint) nas requisições</h5></td>
-  <td valign="top"><img align="right" width="700" alt="image" src="https://github.com/user-attachments/assets/b7e24252-2f49-4cda-b35e-1c94b3a09bc1" style="display: block;"/></td>
+  <td valign="top"><img loading="lazy" align="right" width="700" alt="image" src="https://github.com/user-attachments/assets/b7e24252-2f49-4cda-b35e-1c94b3a09bc1"/</td>
 </tr>
 
 <p> No que diz respeito ao CSS, em todos os SPAs, mesmo utilizando Angular, sempre opto por TailwindCSS em vez de CSS tradicional. Embora o Angular não compile o Tailwind nativamente, então sempre faço uso de uma abordagem híbrida, utilizando Tailwind para a maior parte do design e completando com CSS customizado quando necessário. No entanto, o objetivo é sempre usar Tailwind para garantir a consistência no desenvolvimento visual.</p>
