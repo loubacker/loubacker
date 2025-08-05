@@ -98,12 +98,10 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 
 <p> No que diz respeito ao CSS, em todos os SPAs, mesmo utilizando Angular, sempre opto por TailwindCSS em vez de CSS tradicional. Embora o Angular não compile o Tailwind nativamente, então sempre faço uso de uma abordagem híbrida, utilizando Tailwind para a maior parte do design e completando com CSS customizado quando necessário. No entanto, o objetivo é sempre usar Tailwind para garantir a consistência no desenvolvimento visual.</p>
 
-![Fluxo de Vida dos Tokens no Frontend](https://github.com/user-attachments/assets/5ec7b91d-28ec-4b47-b447-2a1dd657098a)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="caminho/para/imagem-escura-com-fundo-branco.png">
   <source media="(prefers-color-scheme: light)" srcset="caminho/para/imagem-clara-com-fundo-branco.png">
-  <img alt="Fluxo de Vida dos Tokens no Frontend" src="caminho/para/imagem-padrao.png">
+  <img alt="Fluxo de Vida dos Tokens no Frontend" src="https://github.com/user-attachments/assets/5ec7b91d-28ec-4b47-b447-2a1dd657098a">
 </picture>
 
           
