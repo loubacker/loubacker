@@ -88,6 +88,13 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 
 <h3> Configuração dos Cookies, adiciona e limpa os cookies </h3>
 <p align="left">
+  <img width="592" height="548" alt="image" src="https://github.com/user-attachments/assets/ec58b238-d7ad-4909-b9f9-529a7b7150a5" style="display: inline-block;"/>
+  <img width="771" height="310" alt="image" src="https://github.com/user-attachments/assets/b7e24252-2f49-4cda-b35e-1c94b3a09bc1" style="display: inline-block;"/>
+</p>
+
+
+<h3> Configuração dos Cookies, adiciona e limpa os cookies </h3>
+<p align="left">
   <img width="592" height="548" alt="image" src="https://github.com/user-attachments/assets/ec58b238-d7ad-4909-b9f9-529a7b7150a5" />
 </p>
 
