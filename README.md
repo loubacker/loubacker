@@ -1,4 +1,4 @@
-# Olá, eu sou Gabriel Loubacker! 👋
+# Olá, me chamo Gabriel Loubacker! 👋
 <a href="https://github.com/loubacker">
 </a>
 
