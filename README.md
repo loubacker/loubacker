@@ -27,6 +27,7 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 </p>
 
 ![Snake animation](https://github.com/loubacker/loubacker/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 
 ## 💻 Tecnologias e Ferramentas:
