@@ -5,14 +5,14 @@
 Desenvolvedor Back-End e Especialista em Infraestrutura apaixonado por Java e ecossistema Spring. Com uma forte base em arquiteturas de software robustas e distribuídas, meu foco é construir soluções eficientes, escaláveis e observáveis. Atualmente, atuo em duas frentes, aprimorando sistemas e garantindo a performance e segurança da infraestrutura.
 
 📬 Conecte-se comigo:
-<div>
+<p>
   <a href="https://www.instagram.com/loubacker" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
   <a href="https://www.linkedin.com/in/loubacker" target="_blank">
     <img loading="lazy" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-</div>
+</p>
 
 # 💻 Tecnologias e Ferramentas
 Minha stack principal é focada no ecossistema Java, mas também tenho proficiência em tecnologias de front-end e uma vasta experiência em infraestrutura e nuvem.
