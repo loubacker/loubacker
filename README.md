@@ -93,7 +93,7 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
   <h5>Interceptador adiciona os headers de segurança (CSRF e Fingerprint) nas requisições</h5>
   <img align="right" width="400" height="161" alt="image" src="https://github.com/user-attachments/assets/b7e24252-2f49-4cda-b35e-1c94b3a09bc1" style="display: inline-block;"/>
 </p>
-
+<br>
 <p align="left"> No que diz respeito ao CSS, em todos os SPAs, mesmo utilizando Angular, sempre opto por TailwindCSS em vez de CSS tradicional. Embora o Angular não compile o Tailwind nativamente, então sempre faço uso de uma abordagem híbrida, utilizando Tailwind para a maior parte do design e completando com CSS customizado quando necessário. No entanto, o objetivo é sempre usar Tailwind para garantir a consistência no desenvolvimento visual.</p>
 
           
