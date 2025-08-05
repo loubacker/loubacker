@@ -42,7 +42,7 @@ Sou Desenvolvedor Back-End e Especialista em Infraestrutura, proficiente em Java
 <h5> Reverse Proxy com bypass para servidor Auth </h5>
 
     map $http_x_bypass_auth $bypass_auth {
-        "gateway-9000" 1;
+        "gateway-Y" 1;
         default 0;
     }
     
