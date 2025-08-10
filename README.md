@@ -42,6 +42,7 @@
 
 <h5> Exp: Reverse Proxy com Gateway e SSL </h5>
 
+```nginx
     server {
         servername service.domínio.com.br ;
     
@@ -91,6 +92,7 @@
         return 404;
     
     }
+```
 
 <p>Além disso, tenho proficiência em Docker, tanto para aplicações backend como frontend, incluindo frameworks como React e Angular. Também gerencio aplicações Spring diretamente na máquina via systemd e unit/service. Sou capaz de configurar e integrar variáveis de ambiente através de arquivos .env, configurar certificados SSL via Let's Encrypt para domínios e subdomínios, sem custo com wildcards, e implementar monitoramento para escalabilidade vertical e horizontal, garantindo alta disponibilidade. Em cenários de alta demanda, consigo escalar e separar servidores de forma isolada para Banco de Dados, Cacheamento Redis, e realizar duplicação de servidores para aumentar o fluxo de clientes, tudo configurado manualmente na unha, minimizando ao máximo os custos, e sem a dependência de serviços como AWS.</p>
 
