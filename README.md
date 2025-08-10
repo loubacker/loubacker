@@ -1,5 +1,5 @@
 <h1>
-  
+
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2476F7&width=435&lines=Ol%C3%A1%2C+Me+chamo+Gabriel+Loubacker!%F0%9F%91%8B%F0%9F%8F%BB;Sou+Desenvolvedor+Full-Stack;Especialista+em+Infraestrutura+%F0%9F%96%A5%EF%B8%8F;Arquiteturas+Distribuidas;Microservices%2C+Cloud+Computing+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 </h1>
 
