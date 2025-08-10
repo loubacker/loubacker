@@ -43,55 +43,55 @@
 <h5> Exp: Reverse Proxy com Gateway e SSL </h5>
 
 ```nginx
-    server {
-        servername service.domínio.com.br ;
+server {
+    servername service.domínio.com.br ;
     
-        location / {
-    
-            auth_request /gateway-auth;
-    
-            proxy_pass http://localhost:X;
-            proxy_set_header Host $host;
-            proxy_set_header X-Real-IP $remote_addr;
-            proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-            proxy_set_header X-Forwarded-Proto $scheme;
-            proxy_set_header Authorization $http_authorization;
-            proxy_set_header Cookie $http_cookie;
-        }
-    
-        location = /gateway-auth {
-            internal;
-            proxy_pass https://gateway.dominio.com.br/auth-check;
-            proxy_pass_request_body off;
-            proxy_set_header Content-Length "";
-            proxy_set_header X-Original-URI $request_uri;
-            proxy_set_header Authorization $http_authorization;
-            proxy_set_header Cookie $http_cookie;
-        }
-    
-        error_page 401 403 = @auth_redirect;
-        location @auth_redirect {
-            return 302 https://gateway.dominio.com.br/auth?redirect_uri=$scheme://$host$request_uri;
-        }
-    
-        listen 443 ssl;
-        ssl_certificate /etc/letsencrypt/live/acolhimento.humanizarct.com.br/fullchain.pem;
-        ssl_certificate_key /etc/letsencrypt/live/acolhimento.humanizarct.com.br/privkey.pem;
-        include /etc/letsencrypt/options-ssl-nginx.conf;
-        ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem;
-    
+    location / {
+
+        auth_request /gateway-auth;
+
+        proxy_pass http://localhost:X;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_set_header Authorization $http_authorization;
+        proxy_set_header Cookie $http_cookie;
     }
-    
-    server {
-        if ($host = service.dominio.com.br) {
-            return 301 https://$host$request_uri;
-        }
-    
-        server_name service.dominio.com.br;
-        listen 80;
-        return 404;
-    
+
+    location = /gateway-auth {
+        internal;
+        proxy_pass https://gateway.dominio.com.br/auth-check;
+        proxy_pass_request_body off;
+        proxy_set_header Content-Length "";
+        proxy_set_header X-Original-URI $request_uri;
+        proxy_set_header Authorization $http_authorization;
+        proxy_set_header Cookie $http_cookie;
     }
+
+    error_page 401 403 = @auth_redirect;
+    location @auth_redirect {
+        return 302 https://gateway.dominio.com.br/auth?redirect_uri=$scheme://$host$request_uri;
+    }
+
+    listen 443 ssl;
+    ssl_certificate /etc/letsencrypt/live/acolhimento.humanizarct.com.br/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/acolhimento.humanizarct.com.br/privkey.pem;
+    include /etc/letsencrypt/options-ssl-nginx.conf;
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem;
+
+}
+
+server {
+    if ($host = service.dominio.com.br) {
+        return 301 https://$host$request_uri;
+    }
+
+    server_name service.dominio.com.br;
+    listen 80;
+    return 404;
+
+}
 ```
 
 <p>Além disso, tenho proficiência em Docker, tanto para aplicações backend como frontend, incluindo frameworks como React e Angular. Também gerencio aplicações Spring diretamente na máquina via systemd e unit/service. Sou capaz de configurar e integrar variáveis de ambiente através de arquivos .env, configurar certificados SSL via Let's Encrypt para domínios e subdomínios, sem custo com wildcards, e implementar monitoramento para escalabilidade vertical e horizontal, garantindo alta disponibilidade. Em cenários de alta demanda, consigo escalar e separar servidores de forma isolada para Banco de Dados, Cacheamento Redis, e realizar duplicação de servidores para aumentar o fluxo de clientes, tudo configurado manualmente na unha, minimizando ao máximo os custos, e sem a dependência de serviços como AWS.</p>
