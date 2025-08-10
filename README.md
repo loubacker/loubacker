@@ -74,8 +74,8 @@ server {
     }
 
     listen 443 ssl;
-    ssl_certificate /etc/letsencrypt/live/acolhimento.humanizarct.com.br/fullchain.pem;
-    ssl_certificate_key /etc/letsencrypt/live/acolhimento.humanizarct.com.br/privkey.pem;
+    ssl_certificate /etc/letsencrypt/live/dominio.com.br/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/dominio.com.br/privkey.pem;
     include /etc/letsencrypt/options-ssl-nginx.conf;
     ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem;
 
