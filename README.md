@@ -131,7 +131,7 @@ server {
 </table>
 <br>
 
-## ⚛ Frontend:
+## 🛠|⚛ Frontend:
 <h3> Segurança, SPA's Distribuidos e Orquestração </h3>
 <p>
   <tr>
