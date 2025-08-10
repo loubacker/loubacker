@@ -130,9 +130,8 @@ server {
   </tr>
 </table>
 <br>
-<img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/8cad3349-29bc-4af5-b132-0bb0a2d12173" />
 
-## <img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/8cad3349-29bc-4af5-b132-0bb0a2d12173" /> Frontend:
+## <img width="5" height="5" alt="image" src="https://github.com/user-attachments/assets/8cad3349-29bc-4af5-b132-0bb0a2d12173" /> Frontend:
 <h3> Segurança, SPA's Distribuidos e Orquestração </h3>
 <p>
   <tr>
