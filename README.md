@@ -38,8 +38,7 @@
 <h3>Desenvolvedor Full-Stack</h3>
 <p>Minha base tecnológica é formada pelo ecossistema Java, mas também possuo uma vasta experiência em infraestrutura de serviços Cloud e Linux, que são as bases para construir sistemas sólidos, escaláveis, resilientes e eficientes. Tenho um forte domínio em ambientes de produção, com expertise em migração de dados, refatoração de código e entidades, e modificação de tabelas diretamente via SQL. Além disso, possuo ampla experiência em mapear servidores e serviço Cloud, fazer backup de aplicações via Git e backup do bancos de dados em produção. Tenho amplo conhecimento da sintaxe no uso e na administração do NGINX, para balanceamento de carga, reverse proxy, cache management, e configuração de firewall em VPS e serviços Cloud, utilizando Gateway. Esses elementos são fundamentais na minha abordagem para garantir a robustez, segurança e alta disponibilidade dos sistemas.</p>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="100" height="50"/>
-
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="100" height="100"/>
 <h5> Exp: Reverse Proxy com Gateway e SSL </h5>
 
 ```nginx
