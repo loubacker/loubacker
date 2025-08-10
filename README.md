@@ -131,7 +131,7 @@ server {
 </table>
 <br>
 
-## <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/ef2905a8-3bab-478b-b920-9b7ce2cf96c7" />&nbsp; Frontend:
+## <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/58d2b127-6914-4ef9-9683-c454cd56fcc7" />&nbsp; Frontend:
 <h3> Segurança, SPA's Distribuidos e Orquestração </h3>
 <p>
   <tr>
