@@ -28,8 +28,8 @@
 </p>
 
 <p>
-  <img align="center" height="180em" src="https://github-readme-stats-lyart-chi-67.vercel.app/api?username=loubacker&show_icons=true&theme=dracula"/>
-  <img align="center" height="180em" src="https://github-readme-stats-lyart-chi-67.vercel.app/api/top-langs/?username=loubacker&layout=compact&theme=dracula"/>
+  <img align="center" height="180em" src="https://github-readme-stats-lyart-chi-67.vercel.app/api?username=loubacker&count_private=true&show_icons=true&theme=dracula"/>
+  <img align="center" height="180em" src="https://github-readme-stats-lyart-chi-67.vercel.app/api/top-langs/?username=loubacker&count_private=true&layout=compact&theme=dracula"/>
 </p>
 
 <br>
