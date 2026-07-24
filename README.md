@@ -54,5 +54,5 @@
 ### 📊 Github Analytics
 
 <div align="left">
-  <img height="165em" src="https://github-readme-stats-lyart-chi-67.vercel.app/api/top-langs/?username=loubacker&layout=compact&theme=dracula" alt="Top Langs" />
+  <img height="165em" src="https://github-readme-stats-lyart-chi-67.vercel.app/api/top-langs/?username=loubacker&layout=compact" alt="Top Langs" />
 </div>
