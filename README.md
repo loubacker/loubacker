@@ -20,14 +20,10 @@
 
 ### Stack
 
-**Backend:** Rust · Axum · Tokio · Java · Spring Boot · Spring Cloud
-
-**Web:** TypeScript · JavaScript · Bun · Next.js · React
-
-**DB - Messenging:** PostgreSQL · RabbitMQ · Redis
-
-**Infra:** Docker · Linux · NGINX · AWS · Terraform
-
+**Backend:** Rust · Axum · Tokio · Java · Spring Boot · Spring Cloud 
+**Web:** TypeScript · JavaScript · Bun · Next.js · React 
+**DB - Messenging:** PostgreSQL · RabbitMQ · Redis 
+**Infra:** Docker · Linux · NGINX · AWS · Terraform 
 **Identity:** Keycloak · OAuth 2.0 · OpenID Connect
 
 ### 📊 GitHub Languages
