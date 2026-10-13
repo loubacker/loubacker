@@ -29,5 +29,5 @@
 ### 📊 GitHub Languages
 
 <p align="left">
-  <img src="https://github-readme-stats-lyart-chi-67.vercel.app/api/top-langs/?username=loubacker&amp;layout=compact&amp" alt="Linguagens utilizadas no GitHub" />
+  <img src="https://github-readme-stats-lyart-chi-67.vercel.app/api/top-langs/?username=loubacker&amp;layout=compact&amp;theme=dracula" alt="Linguagens do Git de Gabriel Loubacker" />
 </p>
